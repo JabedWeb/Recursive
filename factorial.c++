@@ -1,5 +1,5 @@
-// $ g++ -o hello hello.cc 
-// $ ./hello
+// $ g++ factorial.c++ -o factorial
+// $ ./factorial
 
 
 #include<iostream>
